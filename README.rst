@@ -46,16 +46,16 @@ Notebooks
 - `AuNP Linearity in Absobrance upon Dilution (2_22_13)`_
    - Description   
 
-- ``_
+- `MHA/MUD BSA Absorption (7-21-12)`_
    - Description   
 
-- ``_
+- `BSA Aggregation (11-18-12)`_
    - Description   
 
-- ``_
+- `AuNP Dilution (not so good) (6-12)`_
    - Description   
 
-- ``_
+- `AuNP Diameter Haiss (11-5-12)`_
    - Description
 
 - ``_
@@ -64,55 +64,41 @@ Notebooks
 - ``_
    - Description   
 
-- ``_
-   - Description   
-
-- ``_
-   - Description   
-
-- ``_
-   - Description 
-
-- ``_
-   - Description
-
-- ``_
-   - Description   
-
-- ``_
-   - Description   
-
-- ``_
-   - Description   
-
-- ``_
-   - Description   
-
-- ``_
-   - Description 
 
 
+.. _`Haiss sizing 30nm (2-1-13)`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_1_13_UVVIS_Quicktests/new%20%2230%22nm%20batch%202.ipynb?create=1
 
-.. _`Haiss sizing 30nm (2-1-13)`: http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_1_13_UVVIS_Quicktests/new%20%2230%22nm%20batch%202.ipynb?create=1
+.. _`Haiss sizing 12nm (2-1-13)`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_1_13_UVVIS_Quicktests/new%2212%22nm%20batch%20%201.ipynb?create=1
 
-.. _`Haiss sizing 12nm (2-1-13)`: http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_1_13_UVVIS_Quicktests/new%2212%22nm%20batch%20%201.ipynb?create=1
+.. _`BSA Binding to bare 12nm AuNPs (2-4-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_4_13_UVVis_BSA_FREESOLN/12nm_BSA.ipynb?create=1
 
-.. _`BSA Binding to bare 12nm AuNPs (2-4-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_4_13_UVVis_BSA_FREESOLN/12nm_BSA.ipynb?create=1
+.. _`BSA Binding PH5 (2-4-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_4_13_UVVis_BSA_FREESOLN/BSA_ph5_notebook.ipynb?create=1
 
-.. _`BSA Binding PH5 (2-4-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_4_13_UVVis_BSA_FREESOLN/BSA_ph5_notebook.ipynb?create=1
+.. _`Citrate Binding ph10 30nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_15_13_UVVIS_Small_molecules/Citrate.ipynb?create=1
 
-.. _`Citrate Binding ph10 30nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_15_13_UVVIS_Small_molecules/Citrate.ipynb?create=1
+.. _`Oxalic Binding ph10 30nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_15_13_UVVIS_Small_molecules/Oxalic_ph10.ipynb?create=1
 
-.. _`Oxalic Binding ph10 30nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_15_13_UVVIS_Small_molecules/Oxalic_ph10.ipynb?create=1
+.. _`Glutamate Binding 20nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_15_13_UVVIS_Small_molecules/glutamate.ipynb?create=1
 
-.. _`Glutamate Binding 20nm (2-15-13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_15_13_UVVIS_Small_molecules/glutamate.ipynb?create=1
+.. _`HAuCL4 Absorbance Spectra` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_21_12_HAuCl4/HAuCL4.ipynb?create=1
 
-.. _`HAuCL4 Absorbance Spectra` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_21_12_HAuCl4/HAuCL4.ipynb?create=1
+.. _`50nm (ted pella) BSA Binding (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_22_50nm-nps_bsa/50nm_BSA.ipynb?create=1
 
-.. _`50nm (ted pella) BSA Binding (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_22_50nm-nps_bsa/50nm_BSA.ipynb?create=1
+.. _`50nm (ted pella) Haiss Sizing (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_22_50nm-nps_bsa/50nm_SIZING.ipynb?create=1
 
-.. _`50nm (ted pella) Haiss Sizing (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_22_50nm-nps_bsa/50nm_SIZING.ipynb?create=1
+.. _`AuNP Linearity in Absobrance upon Dilution (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_26_dilution_tests_FREESOLN/AUDilution.ipynb?create=1
 
-.. _`AuNP Linearity in Absobrance upon Dilution (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UVVIS/blob/master/2_26_dilution_tests_FREESOLN/AUDilution.ipynb?create=1
+.. _`MHA/MUD BSA Absorption (7-21-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/July_2012/7%2021%20Analysis.ipynb?create=1
+
+.. _`BSA Aggregation (11-18-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/Nov_2012/BSA_Aggregate.ipynb?create=1
+
+.. _`AuNP Dilution (not so good) (6-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/Nov_2012/Dilution_notsogood.ipynb?create=1
+
+.. _`AuNP Diameter Haiss (11-5-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/Nov_2012/diameter_haiss12.ipynb?create=1
 
 .. _`` : ?create=1
+
+.. _`` : ?create=1
+
+.. _`` : ?create=1
+
