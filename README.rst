@@ -96,7 +96,7 @@ Notebooks
 
 .. _`AuNP Diameter Haiss (11-5-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/Nov_2012/diameter_haiss12.ipynb?create=1
 
-.. _``MUD Aggregates and AuNP Dilution (5-18-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/5_18_12_undec_agg/MudAgg_UVDilution.ipynb?create=1
+.. _`MUD Aggregates and AuNP Dilution (5-18-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/5_18_12_undec_agg/MudAgg_UVDilution.ipynb?create=1
 
 .. _`` : ?create=1
 
