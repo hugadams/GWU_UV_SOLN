@@ -88,7 +88,7 @@ Notebooks
 
 .. _`AuNP Linearity in Absobrance upon Dilution (2_22_13)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_26_dilution_tests_FREESOLN/AUDilution.ipynb?create=1
 
-.. _`MHA/MUD BSA Absorption (7-21-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/July_2012/7%2021%20Analysis.ipynb?create=1
+.. _`MHA/MUD BSA Absorption (7-21-12)` : http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/July_2012/7_21_MHA_MUD.ipynb?create=1
 
 .. _`BSA Aggregation (11-18-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/Nov_2012/BSA_Aggregate.ipynb?create=1
 
