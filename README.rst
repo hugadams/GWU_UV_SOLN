@@ -61,8 +61,8 @@ Notebooks
 - `MUD Aggregates and AuNP Dilution (5-18-12)`_
    - Description   
 
-- ``_
-   - Description   
+- `Spectrometer Drift (5-30-12)`_
+   - **WHEN SPECTROMETER WAS WORKING WELL!** Shows drift 1 hour after warmup, then a full day after warmup.  In regard to the latter, the drift is almost zero!  This is the performance we need in the fixed spectrometer.   (Data started saving early on this set, so plots aren't super clear...)
 
 
 
@@ -98,7 +98,7 @@ Notebooks
 
 .. _`MUD Aggregates and AuNP Dilution (5-18-12)` : http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/5_18_12_undec_agg/MudAgg_UVDilution.ipynb?create=1
 
-.. _`` : ?create=1
+.. _`Spectrometer Drift (5-30-12)` : http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/5_30_12_drift/stability.ipynb?create=1
 
 .. _`` : ?create=1
 
