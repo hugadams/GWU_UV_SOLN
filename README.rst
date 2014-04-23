@@ -7,11 +7,11 @@ experiments in free solution.  These are not curated, contain many incomplete
 results, and **are not suitable for redistribution.**  For import free solution
 tests prior to our useage of notebooks, results have been imported post-priori.
 
-Also storing our `Pump Calculator`_ and `Rates BSA Ethanolamine`_ notebooks here!  **Do not run Rates BSA Ethanolamine; it requires input data not included!**
+Also storing our `Pump Calculator`_ and `Rates BSA Ethanolamine (3-7-13)`_ notebooks here!  **Do not run Rates BSA Ethanolamine; it requires input data not included!**
 
 .. _`Pump Calculator`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing.ipynb?create=1
 
-.. _`Rates BSA Ethanolamine`:http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/3_7_8_Fibers_rates/3-7-13_Analysis.ipynb?create=1
+.. _`Rates BSA Ethanolamine (3-7-13)`:http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/3_7_8_Fibers_rates/3-7-13_Analysis.ipynb?create=1
 
 Free Solution Notebooks
 =======================
