@@ -7,6 +7,8 @@ experiments in free solution.  These are not curated, contain many incomplete
 results, and **are not suitable for redistribution.**  For import free solution
 tests prior to our useage of notebooks, results have been imported post-priori.
 
+**Also storing our `Pump Calculator`_ notebook here**
+
 
 Notebooks
 =========
@@ -65,6 +67,7 @@ Notebooks
    - **WHEN SPECTROMETER WAS WORKING WELL!** Shows drift 1 hour after warmup, then a full day after warmup.  In regard to the latter, the drift is almost zero!  This is the performance we need in the fixed spectrometer.   (Data started saving early on this set, so plots aren't super clear...)
 
 
+.. _`Pump Calculator`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing.ipynb?create=1
 
 .. _`Haiss sizing 30nm (2-1-13)`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/2_1_13_UVVIS_Quicktests/new%20%2230%22nm%20batch%202.ipynb?create=1
 
@@ -100,5 +103,5 @@ Notebooks
 
 .. _`Spectrometer Drift (5-30-12)` : http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/5_30_12_drift/stability.ipynb?create=1
 
-.. _`` : ?create=1
+
 
