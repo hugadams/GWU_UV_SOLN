@@ -7,7 +7,7 @@ experiments in free solution.  These are not curated, contain many incomplete
 results, and **are not suitable for redistribution.**  For import free solution
 tests prior to our useage of notebooks, results have been imported post-priori.
 
-Also storing our `Pump Calculator`_ **notebook here!
+**Also storing our** `Pump Calculator`_ **notebook here!**
 
 .. _`Pump Calculator`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing.ipynb?create=1
 
