@@ -22,8 +22,8 @@ Pumping Notebooks
 - `2mL volume, 600uL drops`_
 .. _`2mL volume, 600uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing_2mL_600ul.ipynb
 
-- `300uL volume, 50uL drops`_
-.. _`300uL volume, 50uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing_300uL_100uL.ipynb
+- `200uL volume, 50uL drops`_
+.. _`200uL volume, 50uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing_300uL_100uL.ipynb
 
 
 
