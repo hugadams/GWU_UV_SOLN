@@ -13,6 +13,20 @@ Also storing our `Pump Calculator`_ and `Rates BSA Ethanolamine (3-7-13)`_ noteb
 
 .. _`Rates BSA Ethanolamine (3-7-13)`: http://nbviewer.ipython.org/urls/raw.github.com/hugadams/GWU_UV_SOLN/master/3_7_8_Fibers_rates/3-7-13_Analysis.ipynb?create=1
 
+Pumping Notebooks
+=================
+
+- `2mL volume, 200uL drops`_
+.. _`2mL volume, 200uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing.ipynb
+
+- `2mL volume, 600uL drops`_
+.. _`2mL volume, 600uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing_2mL_600ul.ipynb
+
+- `300uL volume, 50uL drops`_
+.. _`300uL volume, 50uL drops`: http://nbviewer.ipython.org/github/hugadams/GWU_UV_SOLN/blob/master/pump_mixing300uL_100uL.ipynb
+
+
+
 Free Solution Notebooks
 =======================
 
